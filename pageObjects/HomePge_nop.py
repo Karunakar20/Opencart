@@ -1,6 +1,5 @@
 from selenium.webdriver.common.by import By
 
-
 class Homepage():
     lnk_register_xpath = "//a[normalize-space()='Register']"
     lnk_login_xpath = "//a[normalize-space()='Log in']"
